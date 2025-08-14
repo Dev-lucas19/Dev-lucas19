@@ -13,7 +13,8 @@
 ---------
 
 <h3 align=center>Contact:</h3>
-📮 [Linkedin](https://www.linkedin.com/in/lucas-rafael-gomes-da-silva-5917a236b/) <br>
+📮 [Linkedin](https://www.linkedin.com/in/lucas-rafael-gomes-da-silva-5917a236b/) 
+<br>
 📧 [Email](dev.lucas1902@gmail.com)
 
 ---------
