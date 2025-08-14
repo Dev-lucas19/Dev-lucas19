@@ -12,10 +12,10 @@
 
 ---------
 
- [![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-lucas19)](https://github.com/Dev-lucas19/github-readme-stats)
+ 
 
 ---------
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-lucas19&show_icons=true&theme=dracula)
+ <img src="https://github-readme-stats.vercel.app/api?username=Dev-lucas19&show_icons=true&theme=default&text_color=fff&title_color=f0e68c&rank_icon=default&bg_color=0d1117&icon_color=f0e68c&hide_border=true&include_all_commits=true&count_private=true&locale=pt-BR" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-lucas19&layout=compact&text_color=fff&title_color=f0e68c&bg_color=0d1117&hide_border=true&locale=pt-BR">
 
 
