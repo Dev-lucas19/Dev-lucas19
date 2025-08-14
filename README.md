@@ -15,7 +15,7 @@
 <h3 align=center>Contact:</h3>
 <br>
 <p align="center">
-  📮 <a href="https://www.linkedin.com/in/seu-username/" target="_blank">LinkedIn</a>
+  📮 <a href="https://www.linkedin.com/in/lucas-rafael-gomes-da-silva-5917a236b/" target="_blank">LinkedIn</a>
   📫 <a href="mailto:dev.lucas1902@email.com">email</a>
 </p>
 
