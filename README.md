@@ -11,8 +11,12 @@
 </p>
 
 ---------
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-lucas19&show_icons=true&theme=radical)
 
+ 
+
+---------
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-lucas19&show_icons=true&theme=dracula)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-lucas19&layout=compact&text_color=fff&title_color=f0e68c&bg_color=0d1117&hide_border=true&locale=pt-BR">
 
 
 <!--
