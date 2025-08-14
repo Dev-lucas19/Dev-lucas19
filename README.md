@@ -12,7 +12,7 @@
 
 ---------
 
- 
+ [![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-lucas19)](https://github.com/Dev-lucas19/github-readme-stats)
 
 ---------
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-lucas19&show_icons=true&theme=dracula)
